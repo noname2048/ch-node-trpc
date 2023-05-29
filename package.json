@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"@prisma/client": "4.14.1",
+		"@trpc/client": "^10.28.0",
+		"@trpc/server": "^10.28.0",
+		"@types/node": "^20.2.5",
+		"prisma": "^4.14.1",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.0.4",
+		"zod": "^3.21.4"
+	}
+}
